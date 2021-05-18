@@ -3,12 +3,12 @@
 # Created by: Myles Trump
 # Created on: May 2021
 # This program uses a while loop to solve the power of ever number
-#   up to the inputed number
+#   up to the inputted number
 
 
 def main():
     # this function uses a while loop to solve the power of ever number
-    #   up to the inputed number
+    #   up to the inputted number
 
     # this is to keep track of how many times you go through the loop
     loop_counter = 0
